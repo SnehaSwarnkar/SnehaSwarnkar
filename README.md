@@ -1,89 +1,150 @@
-# Hi, I'm Sneha Swarnkar 👋
+# Hi, I'm Sneha Swarnkar! 👋
 
-### Computer Science Engineering Student | Frontend Developer | UI/UX Designer
+### AI/ML Developer | Full-Stack Developer | Computer Science Undergraduate
 
-I'm a Computer Science Engineering student at **Medi-Caps University**, interested in building **responsive web applications, intuitive user interfaces, and practical software solutions**.
+I'm a Computer Science & Engineering undergraduate at Medi-Caps University, passionate about building intelligent applications, exploring emerging technologies, and developing practical software solutions.
 
-- 🎓 B.Tech in Computer Science Engineering
-- 💻 Interested in **Frontend Development & UI/UX Design**
-- 🌱 Currently learning and improving my skills in **React.js, JavaScript, and Machine Learning**
-- 🎨 UI/UX Designer with experience in **Figma**
-- 🚀 Building projects with the **MERN stack**
-- 🤝 Open to collaborating on interesting software and frontend projects
+I enjoy working across **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**, turning ideas into functional applications.
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 B.Tech in Computer Science & Engineering (2023–2027)
+- 🤖 Interested in AI/ML, Generative AI, LLMs and RAG systems
+- 💻 Building full-stack applications using Python, React and FastAPI
+- 🧠 Exploring local LLMs, semantic search and multimodal AI
+- ☁️ Graphics & Design Executive at AWS Cloud Club
+- 🚀 Always eager to learn, build and collaborate!
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Technical Skills
 
-### UniLift — Campus Ridepooling System
+**Programming Languages**
+- C++, Python, JavaScript, Ruby, SQL
 
-A full-stack campus ridepooling platform built using the **MERN stack**.
+**Frontend Development**
+- HTML, CSS, React.js, Tailwind CSS
 
-- 🔐 JWT-based authentication
-- 👥 Driver & Rider workflows
-- 🚗 Ride creation and management
-- 📋 Booking and seat management
-- 🔄 Ride lifecycle management
-- 🗄️ MongoDB database
-- 🌐 Deployed using Vercel and Render
+**Backend Development**
+- FastAPI, Node.js, Express.js, Ruby on Rails, REST APIs
 
-🔗 [Live Demo](https://unilift.vercel.app/)
+**AI / Machine Learning**
+- Machine Learning, Deep Learning, NLP, Computer Vision, OpenCV
+- Generative AI, Large Language Models (LLMs), RAG
+- Ollama, Llama 3.2, LLaVA, TensorFlow
+- ChromaDB, Nomic Embeddings, BM25 Okapi
+
+**Databases**
+- MongoDB, PostgreSQL, SQL, ChromaDB
+
+**Testing & Development Tools**
+- Git, GitHub, Postman, Pytest, Selenium, DeepEval
+- Manual Testing, Functional Testing, Integration Testing, API Testing
+
+**Cloud & Design**
+- AWS, CloudWatch, Figma, UI/UX Design
+
+---
+
+## 🚀 Featured Projects
+
+### 1. ChatBOT – Real-Time Retrieval-Augmented AI Assistant
+
+[View Repository](https://github.com/SnehaSwarnkar/ChatBOT-Real-Time-Retrieval-Augmented-AI-Assistant)
+
+A locally hosted AI-powered document question-answering chatbot that enables users to interact with PDF and PowerPoint documents through natural language queries.
+
+**Key Features**
+- Integrated Ollama with Llama 3.2 for local AI response generation.
+- Implemented PDF and PPTX document processing and text extraction.
+- Used Nomic Embeddings for semantic document retrieval.
+- Integrated ChromaDB as a persistent vector database.
+- Combined BM25 Okapi keyword retrieval with semantic search.
+- Developed a Retrieval-Augmented Generation (RAG) pipeline for context-aware responses.
+
+**Tech Stack:** Python, RAG, Llama 3.2, Ollama, ChromaDB, Nomic Embeddings, BM25 Okapi.
+
+### 2. BuildWise AI – Construction Intelligence Platform
+
+[Live Demo](https://buildwise-three-iota.vercel.app)
+
+An AI-powered construction intelligence platform integrating locally hosted language and vision models for text-based assistance and image analysis.
+
+**Key Features**
+- Integrated Llama 3.2 and LLaVA 7B for text and image-based AI assistance.
+- Built backend services using FastAPI and Pydantic.
+- Implemented structured REST APIs supporting seven functional modules.
+- Explored construction-related safety monitoring, crack analysis, project planning and site reporting.
+- Integrated multimodal AI capabilities for text and image inputs.
+
+**Tech Stack:** Python, FastAPI, React.js, Ollama, Llama 3.2, LLaVA 7B, Tailwind CSS.
+
+### 3. Airbnb Clone – Full-Stack Property Rental Platform
+
+[View Repository](https://github.com/SnehaSwarnkar/AIRBNB)
+
+A full-stack property rental application replicating core Airbnb functionalities.
+
+**Key Features**
+- Property listings, search and booking workflows.
+- User authentication using Devise.
+- Stripe payment integration with service fees and per-night pricing.
+- Multi-criteria property review system.
+- Host dashboard for property and listing management.
+- Wishlist functionality using REST APIs, Stimulus and Turbo.
+
+**Tech Stack:** Ruby on Rails, Ruby, PostgreSQL, JavaScript, HTML, CSS, Tailwind CSS, Stripe.
+
+### 4. UniLift – Campus Ridepooling System
+
+A MERN-stack campus ridepooling application that enables students to offer and book rides.
+
+**Key Features**
+- Student ride creation and booking workflows.
+- Secure authentication and role-based access.
+- CRUD operations for users and rides.
+- Backend API development and ride management.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs.
 
 ---
 
 ## 💼 Experience
 
-**AI-ML Virtual Intern — AICTE–EduSkills**  
-*June 2026 – August 2026*
+### AI/ML Intern – EduSkills
+*25 June 2026 – 15 July 2026*
 
-**Graphics Executive & UI/UX Designer — AWS Cloud Club**  
-*1 Year*
+- Applied image preprocessing techniques, including image resizing and pixel normalization.
+- Explored image classification, object detection and facial landmark detection.
+- Evaluated ML models using accuracy, precision, recall and F1-score.
+
+**Technologies:** Machine Learning, TensorFlow, TensorFlow Lite, Neural Networks, Image Processing.
+
+### Graphics & Design Executive – AWS Cloud Club
+
+- Designed promotional creatives and branding assets for technical community initiatives.
+- Contributed to Career Catalyst 3.0, a placement preparation initiative with 1,300+ registrations.
+- Created event graphics, promotional materials and logo designs.
+
+### Organizer – AWS Student Community Day 2025
+
+- Supported event coordination and execution at Medi-Caps University.
+- Contributed to community engagement and technical event activities.
+- Received a Certificate of Appreciation from the AWS Cloud Captain.
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnehaSwarnkar&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSwarnkar&layout=compact&theme=github_dark)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnehaSwarnkar)
+**Medi-Caps University, Indore**  
+B.Tech – Computer Science & Engineering  
+2023–2027 | CGPA: 7.57/10
 
 ---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sneha--swarnkar)
+- 💻 [GitHub](https://github.com/SnehaSwarnkar)
+
+I'm always open to learning opportunities, interesting projects and collaborations in AI/ML and Software Development.
 
 ⭐ Thanks for visiting my profile!
